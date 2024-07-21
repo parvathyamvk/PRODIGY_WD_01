@@ -9,19 +9,14 @@ body, html{
         background-color: rgb(37, 1, 36);
         width: 100%;
         top: 0;
-        position: fixed;
-        
-        
-        
-        
-        
+        position: fixed;        
 }
 ul{
         list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
 }
 
 .itrm{
@@ -35,13 +30,8 @@ ul{
         color:beige;
         text-decoration: none;
         padding: 15px 0;
-    display: block;
-    font-size: x-large;
-        
-        
-       
-        
-        
+        display: block;
+        font-size: x-large;       
 }
 .link:hover{
         color: rgb(255, 0, 98);
@@ -49,9 +39,7 @@ ul{
 }
 section{
         padding: 100px 20px;
-        height: 100vh;
-        
-        
+        height: 100vh;        
 }
 #home{
         background-color: rgba(243, 187, 240, 0.5);
